@@ -1,23 +1,17 @@
-# Hi there, I'm Dhanesh 👋  
+# Hey, I'm Dhanesh   
 
-🎓 Aspiring Backend Developer | ☕ Java Enthusiast | ⚡ Spring Boot & JPA Explorer  
+☕ I code in **Java**  
+⚡ I build with **Spring Boot**  
+🧩 I enjoy **problem solving** on [LeetCode](https://leetcode.com/dhanesh76/)  
 
----
-
-## 🚀 About Me
-- 🔭 Currently working on: **Authentication Portal (Spring Boot)**
-- 🌱 Learning: **Spring Security, JPA advanced, Java Networking**
-- 💡 Interested in: Building scalable backend systems  
-- 📚 Solving problems on [LeetCode](https://leetcode.com/dhanesh76/)  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/dhanesh-venkateslu/)**  
+That’s me in three lines.  
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages**: Java, SQL  
-**Frameworks**: Spring Boot, Spring Data JPA, Hibernate  
-**Databases**: MySQL  
-**Other**: Git, REST APIs, Servlets  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postman,redis" />
+</p>
 
 ---
 
@@ -27,8 +21,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhaneshcode&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanesh76&show_icons=true&theme=tokyonight)  
 
----
-
-⭐️ From [dhanesh76](https://github.com/dhanesh76)
+⭐ From [dhanesh76](https://github.com/dhanesh76)
