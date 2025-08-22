@@ -27,14 +27,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanesh76&show_icons=true&theme=tokyonight)  
-
----
-
-## 📂 Featured Projects
-- 🔑 [Authentication Portal](https://github.com/dhanesh76/authentication-portal) – Login, signup, password reset, OAuth  
-- 📊 [Recipe Management API](https://github.com/dhanesh76/recipe-api) – Filtering, pagination, search  
-- 💻 [Networking in Java](https://github.com/dhanesh76/java-networking) – Socket programming examples  
+![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhaneshcode&show_icons=true&theme=tokyonight)  
 
 ---
 
