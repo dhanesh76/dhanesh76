@@ -10,6 +10,8 @@
 
 That’s me in three lines.  
 
+💭 A guy who runs behind the **"why it works"** more than the **"how it works"**.  
+
 ---
 
 ## 🛠️ Tech Stack
@@ -30,4 +32,13 @@ That’s me in three lines.
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanesh76&show_icons=true&theme=tokyonight)  
 
-⭐ From [dhanesh76](https://github.com/dhanesh76)
+<!--![Dhanesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanesh76&theme=tokyo-night)
+-->
+---
+
+📬 Reach Me Out  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanesh-v-5b5145319/)
+
+---
+From [dhanesh76](https://github.com/dhanesh76)
