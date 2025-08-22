@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=dhanesh76&style=flat-square&color=blue)
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHWU1DJLVfORw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723219689849?e=1758758400&v=beta&t=mJ6C_cv91cAU8wX7yTUF35uZdC_n2rv93Pf3vgoBy4Q)  
 
 ---
 
@@ -8,9 +8,11 @@
 ⚡ I build with **Spring Boot**  
 🧩 I enjoy **problem solving** on [LeetCode](https://leetcode.com/dhanesh76/)  
 
-That’s me in three lines.  
-
 💭 A guy who runs behind the **"why it works"** more than the **"how it works"**.  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhanesh76&style=flat-square&color=blue)
 
 ---
 
@@ -32,13 +34,11 @@ That’s me in three lines.
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanesh76&show_icons=true&theme=tokyonight)  
 
-<!--![Dhanesh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanesh76&theme=tokyo-night)
--->
 ---
 
-📬 Reach Me Out  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanesh-v-5b5145319/)
+## 📬 Reach Me Out
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanesh%20V-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dhanesh-v-5b5145319/)
 
 ---
+
 From [dhanesh76](https://github.com/dhanesh76)
