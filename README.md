@@ -22,8 +22,7 @@
 ---
 
 ## 🏆 LeetCode Badges
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=dhanesh76&theme=dark&border=no-border&animated=true)
-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={dhaneshcode}&border=no-border" alt="LeetCode Badges" />
 ---
 
 ## 📊 GitHub Stats
