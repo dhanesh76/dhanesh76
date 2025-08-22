@@ -15,8 +15,11 @@ That’s me in three lines.
 
 ---
 
-## 🏆 LeetCode Badges
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=dhaneshcode&theme=dark&border=no-border&animated=false" alt="LeetCode Badges" />
+## 🏆 LeetCode Progress  
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=dhaneshcode&theme=dark&border=no-border&animated=true" alt="LeetCode Badges" />
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/dhaneshcode?theme=dark&font=Roboto&ext=contest)
 
 ---
 
