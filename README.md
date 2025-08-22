@@ -24,9 +24,18 @@
 
 ## 🏆 LeetCode Progress  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dhaneshcode?theme=dark&font=Roboto&ext=contest)
+<table>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/dhaneshcode?theme=dark&font=Roboto" alt="LeetCode Stats" />
+    </td>
+    <td>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=dhaneshcode&theme=dark&border=no-border&animated=true&filter=submission" alt="LeetCode Badge" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=dhaneshcode&theme=dark&border=no-border&animated=true" alt="LeetCode Badges" />
+
 
 ---
 
