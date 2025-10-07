@@ -1,7 +1,5 @@
-![Banner]([https://media.licdn.com/dms/image/v2/D4E16AQHWU1DJLVfORw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723219689849?e=1758758400&v=beta&t=mJ6C_cv91cAU8wX7yTUF35uZdC_n2rv93Pf3vgoBy4Q](https://media.licdn.com/dms/image/v2/D4E16AQHWU1DJLVfORw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723219689849?e=1762992000&v=beta&t=dB8S3ZEWzDYorxsLgQ-8SicZ8wwB79UCvWCphqgc3XY))  
-
+![Banner](https://github.com/dhanesh76/assests/blob/main/banner.jpeg)
 ---
-
 # Hey, I'm Dhanesh   
 
 ☕ I code in **Java**  
