@@ -1,7 +1,6 @@
 ![Banner](https://github.com/dhanesh76/assests/blob/main/banner.jpeg)
 ---
-# Hey, I'm Dhanesh   
-
+<!-- # Hey, I'm Dhanesh -->   
 ☕ I code in **Java**  
 ⚡ I build with **Spring Boot**  
 🧩 I enjoy **problem solving** on [LeetCode](https://leetcode.com/dhanesh76/)  
