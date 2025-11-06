@@ -5,7 +5,7 @@
 ⚡ I build with **Spring Boot**  
 🧩 I enjoy **problem solving** on [LeetCode](https://leetcode.com/dhanesh76/)  
 
-> “I chase the ‘why it works’ more than the ‘how it works’.”
+> “Someone who strives for the “why” before building the “how”, trusting reasoning and the process above all.”
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhanesh76&style=flat-square&color=blue)
