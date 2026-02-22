@@ -1,9 +1,9 @@
 ![Banner](https://github.com/dhanesh76/assests/blob/main/banner.jpeg)
 ---
 <!-- # Hey, I'm Dhanesh -->   
-☕ I code in **Java**  
-⚡ I build with **Spring Boot**  
-🧩 I enjoy **problem solving** on [LeetCode](https://leetcode.com/dhaneshcode/)  
+ I code in **Java**  
+ I build with **Spring Boot**  
+ I enjoy **problem solving** on [LeetCode](https://leetcode.com/dhaneshcode/)  
 
 > “Someone who strives for the “why” before building the “how”, trusting reasoning and the process above all.”
 ---
