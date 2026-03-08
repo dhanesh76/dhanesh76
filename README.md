@@ -107,7 +107,7 @@ Plug-and-play Spring Boot starter standardizing exception handling across micros
 ```
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,redis,aws,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,redis,git,postman" />
 </p>
 
 ---
@@ -140,6 +140,6 @@ Plug-and-play Spring Boot starter standardizing exception handling across micros
 **Open to backend engineering internships · 2027 grad**
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhanesh76/)
-[![Email](https://img.shields.io/badge/Mail%20Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhaneshvenkateslu@gmail.com)
+[![Email](https://img.shields.io/badge/Mail%20Me-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.dhanesh.7006@gmail.com)
 
 </div>
