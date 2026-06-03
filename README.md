@@ -106,32 +106,10 @@ Plug-and-play Spring Boot starter standardizing exception handling across micros
 }
 ```
 
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,redis,git,postman,docker,nginx" />
 </p>
-
----
-
-## `$ github --stats`
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=dhanesh76&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanesh76&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanesh76&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanesh76&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
 
 ---
 
