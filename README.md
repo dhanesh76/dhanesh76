@@ -107,7 +107,7 @@ Plug-and-play Spring Boot starter standardizing exception handling across micros
 ```
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,redis,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,redis,git,postman,docker,nginx" />
 </p>
 
 ---
